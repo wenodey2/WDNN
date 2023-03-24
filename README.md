@@ -72,4 +72,4 @@ _Note:_
 
 It is strongly advised to execute the code files in the order in which they are presented in the table above.
 
-Other than the files named _table[x].py_ or _table[x].R_, most of the code files require intensive computation (time and resource). In our research, we executed these files using the computing resources of Texas A&M University High Performance Research Computing (HPRC). Some required at least 48 hours to run in the HPRC using 24G memory.
+Other than the files named _table[x].py_ or _table[x].R_, most of the code files require intensive computation (time and resource). In our research, we executed these files using the computing resources of Texas A&M University High Performance Research Computing (HPRC). Some files required at least 48 hours to run in the HPRC using 24G memory.
